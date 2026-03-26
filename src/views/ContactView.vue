@@ -24,9 +24,9 @@ async function handleSubmit() {
       import.meta.env.VITE_EMAILJS_TEMPLATE_ID,
       {
         user_name: formData.value.name,
-        user_email: formData.value.email,
         user_subject: formData.value.subject,
         message: formData.value.message,
+        reply_to: formData.value.email,
       },
       import.meta.env.VITE_EMAILJS_PUBLIC_KEY,
     )
