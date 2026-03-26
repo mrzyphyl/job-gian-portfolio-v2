@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
+    "canvas": "^3.2.2",
     "emailjs-com": "^3.2.0",
     "lucide-vue-next": "^1.0.0",
     "pinia": "^3.0.4",
