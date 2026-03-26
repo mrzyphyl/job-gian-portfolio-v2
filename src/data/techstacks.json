@@ -1,0 +1,153 @@
+{
+  "frontend": [
+    {
+      "name": "jQuery",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg",
+      "level": 75
+    },
+    {
+      "name": "React",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "level": 85
+    },
+    {
+      "name": "JavaScript",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
+      "level": 90
+    },
+    {
+      "name": "TypeScript",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+      "level": 88
+    },
+    {
+      "name": "Vue.js",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg",
+      "level": 85
+    },
+    {
+      "name": "Nuxt",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg",
+      "level": 80
+    },
+    {
+      "name": "Tailwind CSS",
+      "icon": "https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg",
+      "level": 92
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg",
+      "level": 85
+    },
+    {
+      "name": "CSS",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+      "level": 90
+    },
+    {
+      "name": "Angular",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg",
+      "level": 70
+    },
+    {
+      "name": "React Native",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+      "level": 75
+    },
+    {
+      "name": "Yarn",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg",
+      "level": 82
+    }
+  ],
+  "backend": [
+    {
+      "name": ".NET",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg",
+      "level": 88
+    },
+    {
+      "name": "Node.js",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+      "level": 85
+    },
+    {
+      "name": "Express.js",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+      "level": 82
+    },
+    {
+      "name": "Fastify",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastify/fastify-original.svg",
+      "level": 75
+    },
+    {
+      "name": "Bun",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg",
+      "level": 70
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+      "level": 80
+    },
+    {
+      "name": "MSSQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg",
+      "level": 82
+    },
+    {
+      "name": "MongoDB",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+      "level": 78
+    },
+    {
+      "name": "Supabase",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg",
+      "level": 75
+    },
+    {
+      "name": "MySQL",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+      "level": 80
+    }
+  ],
+  "tools": [
+    {
+      "name": "Git",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
+      "level": 90
+    },
+    {
+      "name": "Docker",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+      "level": 80
+    },
+    {
+      "name": "Azure",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg",
+      "level": 72
+    },
+    {
+      "name": "AWS",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg",
+      "level": 70
+    },
+    {
+      "name": "Figma",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+      "level": 75
+    },
+    {
+      "name": "Canva",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg",
+      "level": 80
+    },
+    {
+      "name": "GitKraken",
+      "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitkraken/gitkraken-original.svg",
+      "level": 85
+    }
+  ]
+}

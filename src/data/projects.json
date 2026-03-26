@@ -1,0 +1,326 @@
+[
+  {
+    "name": "UnitOfWorkPractiveV1",
+    "description": "Practice using unit of work",
+    "tech": ["C#", ".NET"],
+    "language": "C#",
+    "html_url": "https://github.com/mrzyphyl/UnitOfWorkPractiveV1",
+    "created_at": "2026-01-31T04:58:29Z",
+    "updated_at": "2026-01-31T04:58:38Z"
+  },
+  {
+    "name": "content-publish-services",
+    "description": "Content publishing services project",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/content-publish-services",
+    "created_at": "2025-10-04T05:12:50Z",
+    "updated_at": "2025-10-04T05:25:54Z"
+  },
+  {
+    "name": "jobDispo_Portfolio",
+    "description": "My first portfolio website",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/jobDispo_Portfolio",
+    "created_at": "2023-11-23T08:58:47Z",
+    "updated_at": "2024-12-19T11:07:27Z"
+  },
+  {
+    "name": "api-checking-screen",
+    "description": "API checking screen application",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/api-checking-screen",
+    "created_at": "2024-10-02T10:43:23Z",
+    "updated_at": "2024-10-02T10:44:21Z"
+  },
+  {
+    "name": "simple-api-data-screen",
+    "description": "Simple API data screen",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/simple-api-data-screen",
+    "created_at": "2024-10-02T09:56:36Z",
+    "updated_at": "2024-10-02T10:02:28Z"
+  },
+  {
+    "name": "es6-methods-research",
+    "description": "ES6 methods research project",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/es6-methods-research",
+    "created_at": "2024-08-11T11:52:15Z",
+    "updated_at": "2024-08-11T11:52:29Z"
+  },
+  {
+    "name": "jquery-populate-form-from-cookies",
+    "description": "jQuery form population from cookies",
+    "tech": ["JavaScript", "jQuery"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/jquery-populate-form-from-cookies",
+    "created_at": "2024-07-27T02:46:28Z",
+    "updated_at": "2024-07-27T02:57:46Z"
+  },
+  {
+    "name": "robust-attendance-management-nosql-api",
+    "description": "Attendance management with NoSQL API",
+    "tech": ["JavaScript", "NoSQL"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/robust-attendance-management-nosql-api",
+    "created_at": "2024-01-06T11:37:29Z",
+    "updated_at": "2024-05-17T14:29:10Z"
+  },
+  {
+    "name": "custom-reactapp-template",
+    "description": "Create React app without CRA or Vite",
+    "tech": ["JavaScript", "React"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/custom-reactapp-template",
+    "created_at": "2024-01-06T10:17:04Z",
+    "updated_at": "2024-04-30T15:26:51Z"
+  },
+  {
+    "name": "Attendance-Management-System",
+    "description": "QR based real-time attendance of students per subject",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Attendance-Management-System",
+    "created_at": "2023-09-04T23:44:52Z",
+    "updated_at": "2023-12-07T08:27:59Z"
+  },
+  {
+    "name": "pythoners",
+    "description": "Simple CRUD system for Flask framework",
+    "tech": ["Python", "Flask"],
+    "language": "Python",
+    "html_url": "https://github.com/mrzyphyl/pythoners",
+    "created_at": "2023-10-13T10:09:25Z",
+    "updated_at": "2023-11-25T05:40:57Z"
+  },
+  {
+    "name": "cliniq-mobileapp",
+    "description": "Mobile app for Cliniq appointments",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/cliniq-mobileapp",
+    "created_at": "2023-11-23T05:48:06Z",
+    "updated_at": "2023-11-25T05:40:43Z"
+  },
+  {
+    "name": "ams-mobileapp",
+    "description": "Mobile app for AMS using QR Technology",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/ams-mobileapp",
+    "created_at": "2023-10-11T04:25:54Z",
+    "updated_at": "2023-11-25T05:40:14Z"
+  },
+  {
+    "name": "CliniQ",
+    "description": "Appointment System for Clinics using QR Technology",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/CliniQ",
+    "created_at": "2023-11-23T05:47:59Z",
+    "updated_at": "2023-11-25T05:39:09Z"
+  },
+  {
+    "name": "book-information-system-python",
+    "description": "Book information system in Python",
+    "tech": ["Python"],
+    "language": "Python",
+    "html_url": "https://github.com/mrzyphyl/book-information-system-python",
+    "created_at": "2023-10-28T06:32:36Z",
+    "updated_at": "2023-10-28T06:35:31Z"
+  },
+  {
+    "name": "pawesomecareApiService",
+    "description": "Pawesome Care API Service",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/pawesomecareApiService",
+    "created_at": "2023-10-22T11:32:14Z",
+    "updated_at": "2023-10-22T11:32:27Z"
+  },
+  {
+    "name": "web-reportCrime",
+    "description": "Web Crime Reporting System",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/web-reportCrime",
+    "created_at": "2023-10-19T13:46:22Z",
+    "updated_at": "2023-10-19T13:46:51Z"
+  },
+  {
+    "name": "apple-go-main",
+    "description": "Apple Go Main Project",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/apple-go-main",
+    "created_at": "2023-10-15T16:07:27Z",
+    "updated_at": "2023-10-15T16:11:48Z"
+  },
+  {
+    "name": "ParkHubWeb-API",
+    "description": "ParkHub Web API",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/ParkHubWeb-API",
+    "created_at": "2023-10-15T12:22:19Z",
+    "updated_at": "2023-10-15T12:22:29Z"
+  },
+  {
+    "name": "backend",
+    "description": "Backend project",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/backend",
+    "created_at": "2023-10-15T11:47:48Z",
+    "updated_at": "2023-10-15T11:48:00Z"
+  },
+  {
+    "name": "ParkHub",
+    "description": "ParkHub Application",
+    "tech": [],
+    "language": null,
+    "html_url": "https://github.com/mrzyphyl/ParkHub",
+    "created_at": "2023-09-30T03:06:32Z",
+    "updated_at": "2023-10-11T08:00:08Z"
+  },
+  {
+    "name": "Webcrimereportingsystem-main",
+    "description": "Web Crime Reporting System Main",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Webcrimereportingsystem-main",
+    "created_at": "2023-10-09T10:01:54Z",
+    "updated_at": "2023-10-09T10:02:08Z"
+  },
+  {
+    "name": "Crimereportingsystem-main",
+    "description": "Crime Reporting System Main",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Crimereportingsystem-main",
+    "created_at": "2023-10-03T13:53:26Z",
+    "updated_at": "2023-10-03T13:53:36Z"
+  },
+  {
+    "name": "Crime-Reporting-System-Backend",
+    "description": "Crime Reporting System Backend",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Crime-Reporting-System-Backend",
+    "created_at": "2023-10-01T06:55:54Z",
+    "updated_at": "2023-10-01T06:56:02Z"
+  },
+  {
+    "name": "Impact",
+    "description": "Impact Project",
+    "tech": ["HTML"],
+    "language": "HTML",
+    "html_url": "https://github.com/mrzyphyl/Impact",
+    "created_at": "2023-09-29T05:36:01Z",
+    "updated_at": "2023-09-29T05:36:13Z"
+  },
+  {
+    "name": "prop-drilling",
+    "description": "Prop Drilling Research",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/prop-drilling",
+    "created_at": "2023-09-29T02:08:49Z",
+    "updated_at": "2023-09-29T02:09:04Z"
+  },
+  {
+    "name": "ccmdkc-backend",
+    "description": "CCMDKC Backend",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/ccmdkc-backend",
+    "created_at": "2023-09-27T05:55:58Z",
+    "updated_at": "2023-09-27T05:56:05Z"
+  },
+  {
+    "name": "Tooth-Specialist-Systems",
+    "description": "Tooth Specialist Systems",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Tooth-Specialist-Systems",
+    "created_at": "2023-09-14T07:33:56Z",
+    "updated_at": "2023-09-14T07:34:19Z"
+  },
+  {
+    "name": "Chronicles-of-Arcana",
+    "description": "Capstone Project for 3rd Year",
+    "tech": ["GDScript"],
+    "language": "GDScript",
+    "html_url": "https://github.com/mrzyphyl/Chronicles-of-Arcana",
+    "created_at": "2023-09-10T08:44:47Z",
+    "updated_at": "2023-09-10T08:45:57Z"
+  },
+  {
+    "name": "auth-login-register",
+    "description": "Authentication Login Register System",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/auth-login-register",
+    "created_at": "2023-09-08T03:54:23Z",
+    "updated_at": "2023-09-08T16:29:52Z"
+  },
+  {
+    "name": "Job-Dispo-Portfolio",
+    "description": "Portfolio for showcasing my skills as a developer",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/Job-Dispo-Portfolio",
+    "created_at": "2023-07-19T11:39:37Z",
+    "updated_at": "2023-09-08T03:55:38Z"
+  },
+  {
+    "name": "P2-Individual-Activity",
+    "description": "P2 Individual Activity",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/P2-Individual-Activity",
+    "created_at": "2023-08-31T06:27:25Z",
+    "updated_at": "2023-09-08T03:55:37Z"
+  },
+  {
+    "name": "React-Calculator",
+    "description": "React Calculator",
+    "tech": ["CSS", "React"],
+    "language": "CSS",
+    "html_url": "https://github.com/mrzyphyl/React-Calculator",
+    "created_at": "2023-08-31T06:37:34Z",
+    "updated_at": "2023-09-08T03:55:35Z"
+  },
+  {
+    "name": "Simple-Calculator-App",
+    "description": "Simple Calculator App",
+    "tech": ["HTML"],
+    "language": "HTML",
+    "html_url": "https://github.com/mrzyphyl/Simple-Calculator-App",
+    "created_at": "2023-08-31T06:30:12Z",
+    "updated_at": "2023-09-08T03:55:35Z"
+  },
+  {
+    "name": "CRUD-ACT-P2",
+    "description": "CRUD ACT P2",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/CRUD-ACT-P2",
+    "created_at": "2023-08-31T11:39:04Z",
+    "updated_at": "2023-09-08T03:55:34Z"
+  },
+  {
+    "name": "ams-webapp",
+    "description": "AMS Web Application",
+    "tech": ["JavaScript"],
+    "language": "JavaScript",
+    "html_url": "https://github.com/mrzyphyl/ams-webapp",
+    "created_at": "2023-09-04T23:20:48Z",
+    "updated_at": "2023-09-08T03:55:33Z"
+  }
+]

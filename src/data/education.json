@@ -1,0 +1,19 @@
+{
+  "education": [
+    {
+      "school": "University of Pangasinan",
+      "degree": "Bachelor of Science in Information Technology",
+      "period": "2021 - 2024",
+      "gpa": "3.8/4.0",
+      "achievements": ["Dean's List", "Captstone: Chronicles of Arcana"]
+    },
+    {
+      "school": "Data Center of The Philippines",
+      "degree": "Senior Highschool",
+      "period": "2018",
+      "gpa": "4.0/4.0",
+      "achievements": ["High Honors"]
+    }
+  ],
+  "certifications": []
+}

@@ -1,0 +1,200 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "Job Gian Dispo",
+      "title": "Full Stack Developer | Backend Developer | Systems Engineer",
+      "location": "Philippines",
+      "email": "gian.carlo@email.com",
+      "phone": "+63 912 345 6789"
+    }
+  ],
+  "techstacks": [
+    { "id": 1, "name": "JavaScript", "category": "frontend" },
+    { "id": 2, "name": "TypeScript", "category": "frontend" },
+    { "id": 3, "name": "Vue.js", "category": "frontend" },
+    { "id": 4, "name": "React", "category": "frontend" },
+    { "id": 5, "name": "Tailwind CSS", "category": "frontend" },
+    { "id": 6, "name": "CSS", "category": "frontend" },
+    { "id": 7, "name": "Bootstrap", "category": "frontend" },
+    { "id": 8, "name": "jQuery", "category": "frontend" },
+    { "id": 9, "name": "Nuxt", "category": "frontend" },
+    { "id": 10, "name": "Angular", "category": "frontend" },
+    { "id": 11, "name": "React Native", "category": "frontend" },
+    { "id": 12, "name": "Yarn", "category": "frontend" },
+    { "id": 13, "name": ".NET", "category": "backend" },
+    { "id": 14, "name": "Node.js", "category": "backend" },
+    { "id": 15, "name": "Express.js", "category": "backend" },
+    { "id": 16, "name": "Fastify", "category": "backend" },
+    { "id": 17, "name": "Bun", "category": "backend" },
+    { "id": 18, "name": "PostgreSQL", "category": "backend" },
+    { "id": 19, "name": "MSSQL", "category": "backend" },
+    { "id": 20, "name": "MongoDB", "category": "backend" },
+    { "id": 21, "name": "Supabase", "category": "backend" },
+    { "id": 22, "name": "MySQL", "category": "backend" },
+    { "id": 23, "name": "Git", "category": "tools" },
+    { "id": 24, "name": "Docker", "category": "tools" },
+    { "id": 25, "name": "Azure", "category": "tools" },
+    { "id": 26, "name": "AWS", "category": "tools" },
+    { "id": 27, "name": "Figma", "category": "tools" },
+    { "id": 28, "name": "Canva", "category": "tools" },
+    { "id": 29, "name": "GitKraken", "category": "tools" }
+  ],
+  "careers": [
+    {
+      "id": 1,
+      "role": "Full Stack Developer",
+      "company": "MNA Ventures",
+      "period": "2026 - Present",
+      "description": "Mid level .NET developer that maintains and create features. Handles different Azure services."
+    },
+    {
+      "id": 2,
+      "role": "Systems Engineer II",
+      "company": "Network Economic Service Venture Philippines, Inc.",
+      "period": "2024 - 2026",
+      "description": ".Net developer creating and maintaining erp solutions. Mentoring junior developers and architecting scalable solutions."
+    }
+  ],
+  "education": [
+    {
+      "id": 1,
+      "school": "University of Pangasinan",
+      "degree": "Bachelor of Science in Information Technology",
+      "period": "2021 - 2024",
+      "gpa": "3.8/4.0"
+    },
+    {
+      "id": 2,
+      "school": "Data Center of The Philippines",
+      "degree": "Senior Highschool",
+      "period": "2018",
+      "gpa": "4.0/4.0"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "UnitOfWorkPractiveV1",
+      "description": "Practice using unit of work",
+      "language": "C#",
+      "year": 2026
+    },
+    {
+      "id": 2,
+      "name": "content-publish-services",
+      "description": "Content publishing services project",
+      "language": "JavaScript",
+      "year": 2025
+    },
+    {
+      "id": 3,
+      "name": "jobDispo_Portfolio",
+      "description": "My first portfolio website",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 4,
+      "name": "api-checking-screen",
+      "description": "API checking screen application",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 5,
+      "name": "simple-api-data-screen",
+      "description": "Simple API data screen",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 6,
+      "name": "es6-methods-research",
+      "description": "ES6 methods research project",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 7,
+      "name": "jquery-populate-form-from-cookies",
+      "description": "jQuery form population from cookies",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 8,
+      "name": "robust-attendance-management-nosql-api",
+      "description": "Attendance management with NoSQL API",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 9,
+      "name": "custom-reactapp-template",
+      "description": "Create React app without CRA or Vite",
+      "language": "JavaScript",
+      "year": 2024
+    },
+    {
+      "id": 10,
+      "name": "Attendance-Management-System",
+      "description": "QR based real-time attendance of students",
+      "language": "JavaScript",
+      "year": 2023
+    },
+    {
+      "id": 11,
+      "name": "pythoners",
+      "description": "Simple CRUD system for Flask framework",
+      "language": "Python",
+      "year": 2023
+    },
+    {
+      "id": 12,
+      "name": "cliniq-mobileapp",
+      "description": "Mobile app for Cliniq appointments",
+      "language": "JavaScript",
+      "year": 2023
+    },
+    {
+      "id": 13,
+      "name": "ams-mobileapp",
+      "description": "Mobile app for AMS using QR Technology",
+      "language": "JavaScript",
+      "year": 2023
+    },
+    {
+      "id": 14,
+      "name": "CliniQ",
+      "description": "Appointment System for Clinics using QR Technology",
+      "language": "JavaScript",
+      "year": 2023
+    },
+    {
+      "id": 15,
+      "name": "Chronicles-of-Arcana",
+      "description": "Capstone Project for 3rd Year",
+      "language": "GDScript",
+      "year": 2023
+    },
+    {
+      "id": 16,
+      "name": "auth-login-register",
+      "description": "Authentication Login Register System",
+      "language": "JavaScript",
+      "year": 2023
+    },
+    {
+      "id": 17,
+      "name": "Job-Dispo-Portfolio",
+      "description": "Portfolio for showcasing my skills",
+      "language": "JavaScript",
+      "year": 2023
+    }
+  ],
+  "socials": [
+    { "id": 1, "name": "GitHub", "url": "https://github.com/mrzyphyl" },
+    { "id": 2, "name": "LinkedIn", "url": "https://www.linkedin.com/in/jobgiandispo/" }
+  ]
+}

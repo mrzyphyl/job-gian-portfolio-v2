@@ -1,0 +1,20 @@
+[
+  {
+    "company": "MNA Ventures",
+    "role": "Full Stack Developer",
+    "period": "2026 - Present",
+    "description": "Mid level .NET developer that maintains and create features. Handles different Azure services.",
+    "achievements": []
+  },
+  {
+    "company": "Network Economic Service Venture Philippines, Inc.",
+    "role": "Systems Engineer II",
+    "period": "2024 - 2026",
+    "description": ".Net developer creating and maintaining erp solutions. Mentoring junior developers and architecting scalable solutions.",
+    "achievements": [
+      "Improved API responses for faster experience",
+      "Implemented various features (Files/Attendance/Etc.)",
+      "Maintained, refactored and created cron jobs"
+    ]
+  }
+]

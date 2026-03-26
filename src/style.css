@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@theme {
+  --color-win7-blue: #005a9e;
+  --color-win7-light-blue: #0078d4;
+  --color-win7-dark: #1a1a1a;
+  --color-win7-gray: #3c3c3c;
+  --color-win7-light-gray: #d1d1d1;
+  --color-win7-medium-gray: #787878;
+  --color-win7-border: #9a9a9a;
+  --color-win7-window: #efefef;
+  --color-win7-titlebar: linear-gradient(to right, #1070b3, #0870b8, #0078d4);
+  --color-win7-sidebar: linear-gradient(to bottom, #1a5fa8, #085a9e);
+  --font-win7: 'Segoe UI', Tahoma, sans-serif;
+}

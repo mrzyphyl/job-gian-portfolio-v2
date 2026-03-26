@@ -1,0 +1,21 @@
+{
+  "name": "Job Gian Dispo",
+  "title": "Full Stack Developer | Backend Developer | Systems Engineer",
+  "bio": "Passionate software developer with experience in building modern web applications. I love creating elegant solutions to complex problems and continuously learning new technologies.",
+  "email": "dispojobbsy@gmail.com",
+  "phone": "+63 915 198 9240",
+  "location": "San Fabian, Philippines",
+  "avatar": "https://scontent.fcrk2-3.fna.fbcdn.net/v/t39.30808-6/476611522_9386518811383990_7561192831478209563_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_eui2=AeGesmNA8n9XdJ8L8zz0kwYHFNEAlKiAI6cU0QCUqIAjp41ZMB0bQlQehNYXGtHYh1wAhVvgYWGHzHHBN75dnMkR&_nc_ohc=N-QRRBRe1EcQ7kNvwG2Bxyd&_nc_oc=AdoEgz-2Bj011e8Zwl9HmRYNPl3zP51xW-EhcFsz58zBZ-OXxdk68DgLMsskxl_FfHA&_nc_zt=23&_nc_ht=scontent.fcrk2-3.fna&_nc_gid=cpqCIn7uR-3biCteNf_9GQ&_nc_ss=7a32e&oh=00_AfxLdbIM-8mEIdiMWm96oez9LFAPS8MrnbLhNfZXPMjAhg&oe=69CA9E8B",
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/mrzyphyl",
+      "color": "bg-gray-800 hover:bg-gray-700"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/jobgiandispo/",
+      "color": "bg-blue-600 hover:bg-blue-500"
+    }
+  ]
+}
